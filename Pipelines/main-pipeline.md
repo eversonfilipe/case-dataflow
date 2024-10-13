@@ -15,7 +15,7 @@
   <p><figcaption>Imagem Ilustrativa</figcaption></p>
 </figure>
 
-<figure>
+<section>
   <h4>1. What is?</h4>
   <p>A pipeline generally refers to a sequence of stages where data, materials, or tasks are passed through <br>
      various processing steps to achieve a final output. The term is used across various fields, each with a <br>
@@ -27,9 +27,9 @@
      guiding the flow from start to finish. Pipelines help break complex processes into manageable segments, making <br>
      it easier to monitor, optimize, and scale operations. The concept is widely applicable, wherever a process requires <br>
      multiple steps to reach an outcome.</p>
-</figure>
+</section>
 
-<figure>
+<section>
   <h4>2. Stages</h4>
   <p><strong>Input Collection:</strong>
      <br>Gathering or receiving the initial data, 
@@ -66,5 +66,5 @@
 <br><strong>Monitoring and Feedback:</strong>
      <br>Observing the pipeline's performance and collecting
      <br>insights for future improvements.</p>
-</figure>
+</section>
 
