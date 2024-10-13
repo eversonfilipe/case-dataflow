@@ -34,27 +34,35 @@
   <p><strong>Input Collection:</strong>
      <br>Gathering or receiving the initial data, 
      <br>materials, or tasks to be processed.
+    <br>
 <br><strong>Preprocessing:</strong>
      <br>Preparing the input by organizing,
      <br>filtering, or cleaning it for the next steps.
+    <br>
 <br><strong>Processing:</strong> 
      <br>Applying transformations, calculations, 
      <br>or modifications to the preprocessed input.
+    <br>
 <br><strong>Intermediate Output:</strong>
      <br>Producing a temporary result that serves as
      <br>input for further stages.
+    <br>
 <br><strong>Final Transformation:</strong>
      <br>Executing final changes, enhancements,
      <br>or adjustments to the intermediate output.
+    <br>
 <br><strong>Output Generation:</strong>
      <br>Creating the final result or product from
      <br>the processed data or materials.
+    <br>
 <br><strong>Validation:</strong>
      <br>Checking the final output to ensure it
      <br>meets quality standards or desired criteria.
+    <br>
 <br><strong>Deployment or Delivery:</strong>
      <br>Sending or applying the validated result where
      <br>it is needed or used.
+    <br>
 <br><strong>Monitoring and Feedback:</strong>
      <br>Observing the pipeline's performance and collecting
      <br>insights for future improvements.</p>
