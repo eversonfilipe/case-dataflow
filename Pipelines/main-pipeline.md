@@ -68,9 +68,11 @@
      <br>insights for future improvements.</p>
 </section>
 
+<br>
 <section>
   <figure>
-    <img src="![image](https://github.com/user-attachments/assets/a9e78904-5643-4f01-ac16-7083f2322f69)"
+    <img src="https://img.freepik.com/premium-photo/double-exposure-oil-pipeline-overlaid-with-digital-financial-data-investment-trends_41097-26133.jpg?size=626&ext=jpg">
   </figure>
 </section>
+<br>
 
