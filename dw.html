@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ELT</title>
+  <title>Data Warehouse</title>
   <link rel="stylesheet" href="styles/styles.css">
 </head>
 <body>
@@ -20,43 +20,47 @@
   </header>
   
   <header>
-    <h1>ELT (Extração, Carregamento e Transformação)</h1>
+    <h1>Data Warehouse</h1>
   </header>
   
   <nav>
     <ul>
-      <li><a href="#sobre-elt">Sobre ELT</a></li>
-      <li><a href="#contribuicao-do-etlt">Contribuições do ELT para os Pipelines</a></li>
+      <li><a href="#sobre-dw">Sobre DWs</a></li>
+      <li><a href="#metodologias-do-dw">Metodologias</a></li>
+      <li><a href="#contribuicoes-do-dw">Metodologias</a></li>
     </ul>
   </nav>
 
   <main>
-    <section id="sobre-elt">
-      <h2>Sobre ELT</h2>
-      <p>O ELT é especialmente recomendado em ambientes que lidam com grandes <br>
-         volumes de dados e onde a agilidade e a flexibilidade são essenciais. <br>
-         Organizações que utilizam data lakes e soluções de armazenamento na nuvem frequentemente <br>
-         optam pelo ELT para aproveitar ao máximo os recursos dessas plataformas.</p>
+    <section id="sobre-dw">
+      <h2>Sobre Data Warehouses</h2>
+      <p>Um Data Warehouse (armazém de dados) é um sistema de armazenamento projetado para <br>
+         consolidar e gerenciar grandes volumes de dados de diferentes fontes, facilitando <br>
+         a análise e a geração de relatórios. </p>
+      <p>Eles reúnem informações provenientes de diversas fontes, como bancos de dados operacionais, <br>
+         sistemas de CRM, ERP, entre outros, permitindo que as organizações tenham uma visão integrada e <br>
+         consolidada dos seus dados.</p>
+      <p>Os data warehouses são fundamentais para empresas que buscam utilizar dados de forma eficaz, <br>
+         oferecendo insights valiosos que podem direcionar estratégias de negócio.</p>
     </section>
 
-    <section id="contribuicao-do-elt">
-      <h2>Contribuições do ETL à Empresa:</h2>
-      <li><h5>Integração de Dados Diversificados:</h5></li>
-      <p>Como os dados são carregados rapidamente antes da transformação, o ELT pode ser mais ágil, <br>
-         permitindo acesso quase instantâneo a dados brutos para análise.</p>
+    <section id="metodologias-do-dw">
+      <h2>Metodologias e aplicabilidades de DW:</h2>
+      <li><h5>Integração de Dados:</h5></li>
+      <p>ata warehouses extraem, transformam e carregam (ETL) dados de diferentes fontes, <br>
+         garantindo que estejam em um formato consistente e utilizável.</p>
 
-      <li><h5>Flexibilidade:</h5>
-        <p>Armazenar dados em seu formato original oferece mais flexibilidade para análises futuras, <br>
-           pois permite que diferentes transformações sejam aplicadas conforme necessário.</p>
+      <li><h5>Modelo de Dados:</h5>
+        <p>Utilizam modelos de dados como o esquema estrela ou floco de neve, <br>
+           facilitando a análise e a geração de relatórios.</p>
 
-      <li><h5>Escalabilidade:</h5>
-        <p>Com o uso de soluções de cloud computing, como Amazon Redshift ou Google BigQuery, <br>
-           o ELT se beneficia de poder computacional praticamente ilimitado, permitindo o processamento <br>
-           de grandes volumes de dados.</p>
+      <li><h5>Consultas Complexas:</h5>
+        <p>Otimizados para consultas analíticas complexas, permitindo <br>
+           que usuários realizem análises profundas e relatórios detalhados.</p>
 
-      <li><h5>Análises Avançadas:</h5></li>
-      <p>A abordagem ELT é particularmente útil em cenários de big data e machine learning, <br>
-         onde os dados brutos podem ser explorados de diversas maneiras, proporcionando insights mais ricos.</p>
+      <li><h5>Armazenamento Histórico:</h5>
+        <p>rmazenam dados históricos, permitindo análises de tendências ao longo do tempo.</p>
+        
     </section>
   </main>
 
