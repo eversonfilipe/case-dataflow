@@ -11,6 +11,6 @@
 
 ---
 <figure>
-  <img src="" alt="Pipelines de Dados">
+  <img src="images/readme-imgs/360_F_367984985_jPqUNWUEKUit5peM1wySwsnHbTpAC3vm.webp" alt="Pipelines de Dados">
   <p><figcaption>Imagem Ilustrativa</figcaption></p>
 </figure>
