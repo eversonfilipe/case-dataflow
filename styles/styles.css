@@ -102,6 +102,7 @@ footer {
   text-align: center;
 }
 
+/* Scroll top button */
 #scroll-top-btn {
   position: fixed;
   bottom: 20px;
