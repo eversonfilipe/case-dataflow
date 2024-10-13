@@ -68,3 +68,9 @@
      <br>insights for future improvements.</p>
 </section>
 
+<section>
+  <figure>
+    <img src="![image](https://github.com/user-attachments/assets/a9e78904-5643-4f01-ac16-7083f2322f69)"
+  </figure>
+</section>
+
