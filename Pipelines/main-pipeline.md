@@ -15,13 +15,48 @@
   <p><figcaption>Imagem Ilustrativa</figcaption></p>
 </figure>
 
-<p>A pipeline generally refers to a sequence of stages where data, materials, or tasks are passed through <br>
-   various processing steps to achieve a final output. The term is used across various fields, each with a <br>
-   slightly different meaning based on the context</p>
+<figure>
+  <h4>1. What is?</h4>
+  <p>A pipeline generally refers to a sequence of stages where data, materials, or tasks are passed through <br>
+     various processing steps to achieve a final output. The term is used across various fields, each with a <br>
+     slightly different meaning based on the context</p>
 
-<p>A pipeline is designed to handle tasks in a structured, linear progression, ensuring smooth transitions <br>
-   between steps. Each stage focuses on a specific action, transforming the input before passing it on to the <br>
-   next stage. The goal is efficiency, reducing manual intervention and errors by automating or systematically <br>
-   guiding the flow from start to finish. Pipelines help break complex processes into manageable segments, making <br>
-   it easier to monitor, optimize, and scale operations. The concept is widely applicable, wherever a process requires <br>
-   multiple steps to reach an outcome.</p>
+  <p>A pipeline is designed to handle tasks in a structured, linear progression, ensuring smooth transitions <br>
+     between steps. Each stage focuses on a specific action, transforming the input before passing it on to the <br>
+     next stage. The goal is efficiency, reducing manual intervention and errors by automating or systematically <br>
+     guiding the flow from start to finish. Pipelines help break complex processes into manageable segments, making <br>
+     it easier to monitor, optimize, and scale operations. The concept is widely applicable, wherever a process requires <br>
+     multiple steps to reach an outcome.</p>
+</figure>
+
+<figure>
+  <h4>2. Stages</h4>
+  <p><strong>Input Collection:</strong>
+     <br>Gathering or receiving the initial data, 
+     <br>materials, or tasks to be processed.
+<br><strong>Preprocessing:</strong>
+     <br>Preparing the input by organizing,
+     <br>filtering, or cleaning it for the next steps.
+<br><strong>Processing:</strong> 
+     <br>Applying transformations, calculations, 
+     <br>or modifications to the preprocessed input.
+<br><strong>Intermediate Output:</strong>
+     <br>Producing a temporary result that serves as
+     <br>input for further stages.
+<br><strong>Final Transformation:</strong>
+     <br>Executing final changes, enhancements,
+     <br>or adjustments to the intermediate output.
+<br><strong>Output Generation:</strong>
+     <br>Creating the final result or product from
+     <br>the processed data or materials.
+<br><strong>Validation:</strong>
+     <br>Checking the final output to ensure it
+     <br>meets quality standards or desired criteria.
+<br><strong>Deployment or Delivery:</strong>
+     <br>Sending or applying the validated result where
+     <br>it is needed or used.
+<br><strong>Monitoring and Feedback:</strong>
+     <br>Observing the pipeline's performance and collecting
+     <br>insights for future improvements.</p>
+</figure>
+
